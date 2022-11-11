@@ -1,6 +1,7 @@
 # PLACES TO AVOID ON YOUR FIRST DATE IN SAN FRANCISCO
 
 **_Pre Requisites:_** _Python, Basic Python Libraries_
+
 **_Packages and Libraries used:_** _NumPy, Pandas, Matplotlib,Ipyleaflet_
 
 In San Francisco, you can find more interesting dates than the typical coffee dates or happy
